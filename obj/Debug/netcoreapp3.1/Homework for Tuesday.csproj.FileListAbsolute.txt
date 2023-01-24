@@ -1,0 +1,14 @@
+C:\Users\newego\source\repos\Homework for Tuesday\Homework for Tuesday\bin\Debug\netcoreapp3.1\Homework for Tuesday.exe
+C:\Users\newego\source\repos\Homework for Tuesday\Homework for Tuesday\bin\Debug\netcoreapp3.1\Homework for Tuesday.deps.json
+C:\Users\newego\source\repos\Homework for Tuesday\Homework for Tuesday\bin\Debug\netcoreapp3.1\Homework for Tuesday.runtimeconfig.json
+C:\Users\newego\source\repos\Homework for Tuesday\Homework for Tuesday\bin\Debug\netcoreapp3.1\Homework for Tuesday.runtimeconfig.dev.json
+C:\Users\newego\source\repos\Homework for Tuesday\Homework for Tuesday\bin\Debug\netcoreapp3.1\Homework for Tuesday.dll
+C:\Users\newego\source\repos\Homework for Tuesday\Homework for Tuesday\bin\Debug\netcoreapp3.1\Homework for Tuesday.pdb
+C:\Users\newego\source\repos\Homework for Tuesday\Homework for Tuesday\obj\Debug\netcoreapp3.1\Homework for Tuesday.csproj.AssemblyReference.cache
+C:\Users\newego\source\repos\Homework for Tuesday\Homework for Tuesday\obj\Debug\netcoreapp3.1\Homework for Tuesday.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\newego\source\repos\Homework for Tuesday\Homework for Tuesday\obj\Debug\netcoreapp3.1\Homework for Tuesday.AssemblyInfoInputs.cache
+C:\Users\newego\source\repos\Homework for Tuesday\Homework for Tuesday\obj\Debug\netcoreapp3.1\Homework for Tuesday.AssemblyInfo.cs
+C:\Users\newego\source\repos\Homework for Tuesday\Homework for Tuesday\obj\Debug\netcoreapp3.1\Homework for Tuesday.csproj.CoreCompileInputs.cache
+C:\Users\newego\source\repos\Homework for Tuesday\Homework for Tuesday\obj\Debug\netcoreapp3.1\Homework for Tuesday.dll
+C:\Users\newego\source\repos\Homework for Tuesday\Homework for Tuesday\obj\Debug\netcoreapp3.1\Homework for Tuesday.pdb
+C:\Users\newego\source\repos\Homework for Tuesday\Homework for Tuesday\obj\Debug\netcoreapp3.1\Homework for Tuesday.genruntimeconfig.cache
